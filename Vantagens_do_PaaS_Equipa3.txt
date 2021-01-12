@@ -1,0 +1,40 @@
+Vantagens do PaaS
+
+
+1. Suportar equipas de desenvolvimento distribuídas geograficamente. Uma vez que o acesso
+ao ambiente de desenvolvimento é feito através da Internet, as equipas de desenvolvimento podem
+trabalhar em conjunto nos projetos, mesmo se os vários membros estiverem em localizações remotas.
+
+
+2. Reduzir o tempo gasto a programar. As ferramentas de programação da PaaS podem reduzir o tempo
+que demora a programar aplicações novas com componentes de aplicações pré-programados que são incorporados
+na plataforma, como serviços de fluxos de trabalho e de diretórios, funcionalidades de segurança,
+pesquisa e assim sucessivamente.
+
+
+3. Uma das maiores vantagens da PaaS é que as empresas podem obter um ambiente para criar 
+e implantar novos aplicativos sem a necessidade de gastar tempo e dinheiro criando e mantendo
+uma infraestrutura que inclua servidores e base de dados.
+
+
+4. O modelo de PaaS é considerado benéfico para desenvolvedores, já que é uma boa
+maneira de o profissional dedicar-se, de fato, ao trabalho de construção de aplicativos,
+deixando o restante com o fornecedor, como gestão, licenças de utilização, atualização e
+manutenção da infraestrutura, e por isso redução de custos. Para projetos em que a equipa é
+reduzida, o uso de PaaS é apontado como uma boa solução, pois permite o foco em
+desenvolvimento, sem a necessidade de gerir, fazer a manutenção e garantir a segurança do
+servidor, optando por uma plataforma pronta. Como é característica de soluções Cloud
+Computing, nas soluções de PaaS é possível ajustar o consumo de recursos de acordo com a
+procura, assim como a cobrança também é feita por necessidade.
+
+
+5. Possibilita a entrega de microsserviços. Microsserviços representam diversas implementações 
+menores e separadas por competências dentro de um mesmo ambiente. Com a PaaS, é possível dividir 
+as aplicações da empresa em microimplementações e obter uma escala de competências mais pontuais
+e qualificadas. Por exemplo: a empresa pode manter o site, os sistemas e o banco de dados separados,
+adicionando uma competência a cada uma das frações, o que permitirá escalar somente a parte que realmente
+é necessária.
+
+
+
+

@@ -1,0 +1,8 @@
+
+1 Vantagem do PaaS
+
+Suportar equipas de desenvolvimento distribuídas geograficamente. 
+
+Uma vez que o acesso ao ambiente de desenvolvimento é feito através da Internet, 
+as equipas de desenvolvimento podem trabalhar em conjunto nos projetos, 
+mesmo se os vários membros estiverem em localizações remotas.
